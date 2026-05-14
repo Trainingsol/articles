@@ -1,5 +1,8 @@
 title: Articles
 description: Training, career development, BMI, and digital tools
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
 plugins:
   - jekyll-feed
