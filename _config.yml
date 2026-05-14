@@ -1,0 +1,5 @@
+title: Articles
+description: Training, career development, BMI, and digital tools
+theme: minima
+plugins:
+  - jekyll-feed
