@@ -1,2 +1,14 @@
-# articles
-A collection of useful articles about professional training, career development, health calculators, BMI, and digital tools.
+# المقالات
+
+## أحدث المقالات
+
+- [أغلى خطأ مهني لا يتحدث عنه أحد](career-growth)
+
+---
+
+مقالات عن:
+
+- التدريب المهني
+- تطوير المسار الوظيفي
+- الصحة و BMI
+- الأدوات الرقمية
