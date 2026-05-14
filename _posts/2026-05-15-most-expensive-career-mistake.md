@@ -1,8 +1,9 @@
 ---
-layout: post
 title: "The Most Expensive Career Mistake Nobody Talks About"
 date: 2025-01-01
-categories: career training
+layout: single
+classes: wide
+author_profile: false
 ---
 # The Most Expensive Career Mistake Nobody Talks About
 
